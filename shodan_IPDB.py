@@ -1,7 +1,7 @@
 # Author: Binh Lam
 # Contact: binh.lam@global.ntt
 # Description: This script retrieves JSON data from the Shodan API for a list of IP addresses,
-# converts it into a table format, and writes the 
+# converts it into a table format, and writes the results to a CSV file.
 
 import requests
 import json
